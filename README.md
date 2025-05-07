@@ -1,16 +1,23 @@
-## Hi there 👋
+# KUSUM MALVIYA | AI Prompt Engineer 
 
-<!--
-**The-xencat/The-xencat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Kusum** – a curious mind passionate about AI, prompting, and building immersive digital experiences. I specialize in **Prompt Engineering**, crafting creative and efficient prompts for LLMs like GPT-4. My goal is to bridge human creativity and machine intelligence to solve real-world problems and create magical interactions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- 🧠 **AI Prompt Engineering** – Crafting prompts for OpenAI & LLMs
+- 🤖 **Automation Projects** – Scripting bots to make life easier
+- 🌿 **Creative AI** – Storytelling, poetry, and human-like outputs from AI
+- 🛠️ **Tech Stack** – Python • OpenAI API • GitHub Actions • Selenium • Bash • Tailwind CSS
+
+---
+
+## Connect with Me
+
+- 📬 [LinkedIn](www.linkedin.com/in/kusummalviya)
+- 🌐 [Portfolio Website](--) *(coming soon)*
+- 🐱 GitHub: `@The-xencat`
+- 💌 Let's collaborate on something magical.
+
+---
