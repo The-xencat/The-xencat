@@ -1,6 +1,6 @@
-# KUSUM MALVIYA | AI Prompt Engineer 
+# KUSUM MALVIYA | Aspiring AI Prompt Engineer 
 
-Hi there! I'm **Kusum** – a curious mind passionate about AI, prompting, and building immersive digital experiences. I specialize in **Prompt Engineering**, crafting creative and efficient prompts for LLMs like GPT-4. My goal is to bridge human creativity and machine intelligence to solve real-world problems and create magical interactions.
+Hi there! I'm **Kusum** – a curious mind passionate about crafting meaningful prompts and building smart automations with tools like **ChatGPT**, **Claude**, and **Gemini**. My goal is to bridge human creativity and machine intelligence to solve real-world problems and create magical interactions.
 
 ---
 
